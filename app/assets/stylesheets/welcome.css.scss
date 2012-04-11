@@ -1,0 +1,9 @@
+// Place all the styles related to the welcome controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+table td { height: 50px; width: 50px; border: 1px solid blue; text-align: center; vertical-align: center; }
+table td.walkable_false { background-color: #f00; }
+table td.start_true { background-color: #0f0; }
+table td.end_true { background-color: #0f0; }
+table td.path_true { background-color: #ff0; }
